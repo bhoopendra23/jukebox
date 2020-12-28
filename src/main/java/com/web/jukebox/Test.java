@@ -2,8 +2,8 @@ package com.web.jukebox;
 
 public class Test {
 	public static void main(String[] args) {
-		String x ="pawan";
-		String y="kushwah";
+		String x ="bhooendra";
+		String y="singh";
 		x=x+y;
 		y=x.replace(y, "");
 		x=x.replace(y, "");
